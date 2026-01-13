@@ -1,0 +1,19 @@
+{
+  "python.pythonPath": "/Users/moshfeghhamedani/.local/share/virtualenvs/storefront-Xk9k71tz/bin/python",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "localhost",
+      "database": "storefront",
+      "username": "root"
+    }
+  ]
+}
